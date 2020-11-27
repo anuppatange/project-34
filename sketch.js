@@ -36,9 +36,9 @@ function draw() {
   pendulum2.display();
   pendulum3.display();
   pendulum4.display();
-  Pendulum5.display();
+  pendulum5.display();
   sling1.display();
-  sling2.displa();
+  sling2.display();
   sling3.display();
   sling4.display();
   sling5.display();
